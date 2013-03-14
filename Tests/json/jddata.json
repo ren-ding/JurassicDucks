@@ -1,0 +1,8 @@
+{
+	"flockingFactor": {
+		"seperationFactor" : 10.0,
+		"viewRadiusFactor" : 10.0,
+		"steeringForceFactor" : 50.0,
+		"visibilityFactor" : 50.0
+	}
+}
